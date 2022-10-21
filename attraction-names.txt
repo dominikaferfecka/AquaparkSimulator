@@ -1,0 +1,46 @@
+Slide,Zjezdzalnia Wesoly Pyton
+Slide,Zjezdzalnia Czarna Mamba
+Slide,Zjezdzalnia Zygzak
+Slide,Zjezdzalnia Twister
+Slide,Zjezdzalnia Boa Topiciel
+Sauna,Sauna Duszek
+Sauna,Sauna Goraczka Sobotniej Nocy
+Sauna,Sauna Tropiki
+Sauna,Sauna Finska
+Sauna,Sauna Siodme Niebo
+BouncyCastle,Dmuchaniec Ananasowy Dom
+BouncyCastle,Dmuchaniec Latajacy Holender
+BouncyCastle,Dmuchaniec Wyspa Skarbow
+BouncyCastle,Dmuchaniec Wielki Banan
+BouncyCastle,Dmuchaniec Smocza Utopia
+AquaBar,Bar Pod Palemka
+AquaBar,Karczma U Czarnobrodego
+AquaBar,Restauracja Krusty Krab
+PontoonRide,Splyw Pontonowy Niagara
+PontoonRide,Splyw Pontonowy Topielec
+PontoonRide,Splyw Pontonowy Tokyo Drift
+Jacuzzi,Jacuzzi Kociol Czarownicy
+Jacuzzi,Jacuzzi Czara Ognia
+Jacuzzi,Jacuzzi Islandzki Gejzer
+Jacuzzi,Jacuzzi Bombelek
+PaddlingPool,Brodzik Joanna
+PaddlingPool,Brodzik Delfinek
+PaddlingPool,Brodzik Mala Syrenka
+PaddlingPool,Brodzik Gdzie jest Nemo
+PaddlingPool,Brodzik Ratunku jestem Rybka
+PaddlingPool,Brodzik Rybki z Ferajny
+BeginnerSwimlane,Poczatkujacy tor plywacki 1
+BeginnerSwimlane,Poczatkujacy tor plywacki 2
+BeginnerSwimlane,Poczatkujacy tor plywacki 3
+BeginnerSwimlane,Poczatkujacy tor plywacki 4
+BeginnerSwimlane,Poczatkujacy tor plywacki 5
+StandardSwimlane,Standardowy tor plywacki 1
+StandardSwimlane,Standardowy tor plywacki 2
+StandardSwimlane,Standardowy tor plywacki 3
+StandardSwimlane,Standardowy tor plywacki 4
+StandardSwimlane,Standardowy tor plywacki 5
+ProSwimlane,Ekspercki tor plywacki 1
+ProSwimlane,Ekspercki tor plywacki 2
+ProSwimlane,Ekspercki tor plywacki 3
+ProSwimlane,Ekspercki tor plywacki 4
+ProSwimlane,Ekspercki tor plywacki 5

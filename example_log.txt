@@ -1,0 +1,1013 @@
+################ SYMULACJA PARK WODNY ################
+
+---------------- TWORZENIE ATRAKCJI ----------------
+1. Splyw Pontonowy Topielec dla dzieci?: TAK
+2. Sauna Finska dla dzieci?: NIE
+3. Sauna Tropiki dla dzieci?: NIE
+4. Ekspercki tor plywacki 3 dla dzieci?: TAK
+5. Brodzik Mala Syrenka dla dzieci?: TAK
+6. Standardowy tor plywacki 2 dla dzieci?: TAK
+7. Ekspercki tor plywacki 1 dla dzieci?: TAK
+8. Poczatkujacy tor plywacki 1 dla dzieci?: TAK
+9. Poczatkujacy tor plywacki 5 dla dzieci?: TAK
+10. Dmuchaniec Latajacy Holender dla dzieci?: TAK
+11. Zjezdzalnia Zygzak dla dzieci?: TAK
+12. Dmuchaniec Wyspa Skarbow dla dzieci?: TAK
+13. Standardowy tor plywacki 1 dla dzieci?: TAK
+14. Bar Pod Palemka dla dzieci?: NIE
+15. Poczatkujacy tor plywacki 4 dla dzieci?: TAK
+16. Jacuzzi Bombelek dla dzieci?: NIE
+17. Sauna Goraczka Sobotniej Nocy dla dzieci?: NIE
+18. Standardowy tor plywacki 5 dla dzieci?: TAK
+19. Zjezdzalnia Wesoly Pyton dla dzieci?: TAK
+20. Sauna Siodme Niebo dla dzieci?: NIE
+21. Karczma U Czarnobrodego dla dzieci?: NIE
+22. Standardowy tor plywacki 4 dla dzieci?: TAK
+23. Brodzik Ratunku jestem Rybka dla dzieci?: TAK
+24. Standardowy tor plywacki 3 dla dzieci?: TAK
+25. Brodzik Delfinek dla dzieci?: TAK
+26. Dmuchaniec Wielki Banan dla dzieci?: TAK
+27. Restauracja Krusty Krab dla dzieci?: NIE
+28. Sauna Duszek dla dzieci?: NIE
+29. Poczatkujacy tor plywacki 2 dla dzieci?: TAK
+-----------------------------------------------------
+
+
+--------------- TWORZENIE PRACOWNIKOW ---------------
+1. Instructor 0
+2. Cashier 1
+3. Lifeguard 2
+4. Instructor 3
+5. Cashier 4
+6. Lifeguard 5
+7. Instructor 6
+8. Cashier 7
+9. Lifeguard 8
+10. Instructor 9
+-----------------------------------------------------
+
+
+______________ Symulacja 1 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 1)
+Na 6 jednostki czasu
+Jego poziom umiejetnosci plywackich: 2
+Wiek: 82
+
+Klient (Client nr 1)
+Wybral atrakcje: Bar Pod Palemka
+
+______________ Symulacja 2 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 2)
+Na 49 jednostki czasu
+Jego poziom umiejetnosci plywackich: 3
+Wiek: 47
+
+Klient (Client nr 2)
+Wybral atrakcje: Karczma U Czarnobrodego
+
+______________ Symulacja 3 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 3)
+Na 36 jednostki czasu
+Jego poziom umiejetnosci plywackich: 3
+Wiek: 35
+
+Klient (Client nr 3)
+Wybral atrakcje: Sauna Duszek
+
+______________ Symulacja 4 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 4)
+Na 36 jednostki czasu
+Jego poziom umiejetnosci plywackich: 2
+Wiek: 24
+
+Klient (Client nr 4)
+Wybral atrakcje: Standardowy tor plywacki 4
+
+______________ Symulacja 5 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 5)
+Na 24 jednostki czasu
+Jego poziom umiejetnosci plywackich: 2
+Wiek: 7
+
+Wychodzi klient (Client nr 1)
+---------------- Paragon ----------------
+Bar Pod Palemka --- cena: 20
+                          Cena laczna: 20
+-----------------------------------------
+
+
+Klient (Client nr 4)
+Wybral instruktora: Instructor 0
+
+Klient (Client nr 5)
+Wybral atrakcje: Splyw Pontonowy Topielec
+
+______________ Symulacja 6 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 6)
+Na 6 jednostki czasu
+Jego poziom umiejetnosci plywackich: 1
+Wiek: 83
+
+Klient (Client nr 6)
+Wybral atrakcje: Poczatkujacy tor plywacki 1
+
+______________ Symulacja 7 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 7)
+Na 11 jednostki czasu
+Jego poziom umiejetnosci plywackich: 3
+Wiek: 89
+
+Klient (Client nr 7)
+Wybral atrakcje: Sauna Goraczka Sobotniej Nocy
+
+______________ Symulacja 8 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 8)
+Na 50 jednostki czasu
+Jego poziom umiejetnosci plywackich: 2
+Wiek: 16
+
+Klient (Client nr 8)
+Wybral atrakcje: Standardowy tor plywacki 1
+
+______________ Symulacja 9 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 9)
+Na 23 jednostki czasu
+Jego poziom umiejetnosci plywackich: 1
+Wiek: 76
+
+Klient (Client nr 9)
+Wybral atrakcje: Sauna Siodme Niebo
+
+______________ Symulacja 10 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 10)
+Na 39 jednostki czasu
+Jego poziom umiejetnosci plywackich: 1
+Wiek: 88
+
+Wychodzi klient (Client nr 6)
+---------------- Paragon ----------------
+Poczatkujacy tor plywacki 1 --- cena: 9
+                          Cena laczna: 9
+-----------------------------------------
+
+
+Klient (Client nr 10)
+Wybral atrakcje: Poczatkujacy tor plywacki 5
+
+Klient (Client nr 10)
+Wybral instruktora: Instructor 6
+
+______________ Symulacja 11 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 11)
+Na 19 jednostki czasu
+Jego poziom umiejetnosci plywackich: 2
+Wiek: 24
+
+Klient (Client nr 11)
+Wybral atrakcje: Bar Pod Palemka
+
+______________ Symulacja 12 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 12)
+Na 11 jednostki czasu
+Jego poziom umiejetnosci plywackich: 3
+Wiek: 33
+
+Klient (Client nr 12)
+Wybral atrakcje: Karczma U Czarnobrodego
+
+______________ Symulacja 13 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 13)
+Na 32 jednostki czasu
+Jego poziom umiejetnosci plywackich: 3
+Wiek: 70
+
+Klient (Client nr 2)
+Wybral atrakcje: Karczma U Czarnobrodego
+
+Klient (Client nr 5)
+Wybral atrakcje: Brodzik Ratunku jestem Rybka
+
+Klient (Client nr 13)
+Wybral atrakcje: Sauna Siodme Niebo
+
+______________ Symulacja 14 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 14)
+Na 45 jednostki czasu
+Jego poziom umiejetnosci plywackich: 1
+Wiek: 70
+
+Klient (Client nr 3)
+Wybral atrakcje: Bar Pod Palemka
+
+Klient (Client nr 3)
+Wybral instruktora: Instructor 9
+
+Klient (Client nr 8)
+Wybral instruktora: Instructor 0
+
+Klient (Client nr 14)
+Wybral atrakcje: Sauna Duszek
+
+______________ Symulacja 15 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 15)
+Na 21 jednostki czasu
+Jego poziom umiejetnosci plywackich: 2
+Wiek: 78
+
+Klient (Client nr 15)
+Wybral atrakcje: Bar Pod Palemka
+
+______________ Symulacja 16 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 16)
+Na 14 jednostki czasu
+Jego poziom umiejetnosci plywackich: 3
+Wiek: 84
+
+Wychodzi klient (Client nr 7)
+---------------- Paragon ----------------
+Sauna Goraczka Sobotniej Nocy --- cena: 10
+                          Cena laczna: 10
+-----------------------------------------
+
+
+Klient (Client nr 11)
+Wybral instruktora: Instructor 6
+
+Klient (Client nr 16)
+Wybral atrakcje: Ekspercki tor plywacki 3
+
+______________ Symulacja 17 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 17)
+Na 11 jednostki czasu
+Jego poziom umiejetnosci plywackich: 2
+Wiek: 70
+
+Klient (Client nr 12)
+Wybral instruktora: Instructor 9
+
+Klient (Client nr 17)
+Wybral atrakcje: Sauna Duszek
+
+______________ Symulacja 18 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 18)
+Na 15 jednostki czasu
+Jego poziom umiejetnosci plywackich: 1
+Wiek: 99
+
+Klient (Client nr 18)
+Wybral atrakcje: Poczatkujacy tor plywacki 4
+
+______________ Symulacja 19 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 19)
+Na 32 jednostki czasu
+Jego poziom umiejetnosci plywackich: 2
+Wiek: 27
+
+Klient (Client nr 19)
+Wybral atrakcje: Sauna Tropiki
+
+______________ Symulacja 20 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 20)
+Na 12 jednostki czasu
+Jego poziom umiejetnosci plywackich: 1
+Wiek: 56
+
+Klient (Client nr 4)
+Wybral atrakcje: Bar Pod Palemka
+
+Klient (Client nr 9)
+Wybral atrakcje: Restauracja Krusty Krab
+
+Klient (Client nr 13)
+Wybral instruktora: Instructor 9
+
+Klient (Client nr 19)
+Wybral instruktora: Instructor 3
+
+Klient (Client nr 20)
+Wybral atrakcje: Poczatkujacy tor plywacki 4
+
+______________ Symulacja 21 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 21)
+Na 49 jednostki czasu
+Jego poziom umiejetnosci plywackich: 2
+Wiek: 46
+
+Klient (Client nr 10)
+Wybral atrakcje: Restauracja Krusty Krab
+
+Wychodzi klient (Client nr 12)
+---------------- Paragon ----------------
+Karczma U Czarnobrodego --- cena: 20
+Instructor 9 --- cena: 30
+                          Cena laczna: 50
+-----------------------------------------
+
+
+Klient (Client nr 15)
+Wybral instruktora: Instructor 3
+
+Klient (Client nr 21)
+Wybral atrakcje: Standardowy tor plywacki 5
+
+______________ Symulacja 22 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 22)
+Na 45 jednostki czasu
+Jego poziom umiejetnosci plywackich: 2
+Wiek: 42
+
+Klient (Client nr 11)
+Wybral atrakcje: Sauna Siodme Niebo
+
+Klient (Client nr 16)
+Wybral instruktora: Instructor 0
+
+Klient (Client nr 17)
+Wybral instruktora: Instructor 0
+
+Klient (Client nr 22)
+Wybral atrakcje: Sauna Duszek
+
+______________ Symulacja 23 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 23)
+Na 32 jednostki czasu
+Jego poziom umiejetnosci plywackich: 3
+Wiek: 57
+
+Klient (Client nr 23)
+Wybral atrakcje: Sauna Goraczka Sobotniej Nocy
+
+______________ Symulacja 24 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 24)
+Na 29 jednostki czasu
+Jego poziom umiejetnosci plywackich: 3
+Wiek: 38
+
+Klient (Client nr 2)
+Wybral atrakcje: Sauna Duszek
+
+Klient (Client nr 8)
+Wybral atrakcje: Brodzik Mala Syrenka
+
+Klient (Client nr 9)
+Wybral instruktora: Instructor 6
+
+Klient (Client nr 13)
+Wybral atrakcje: Ekspercki tor plywacki 3
+
+Klient (Client nr 21)
+Wybral instruktora: Instructor 0
+
+Klient (Client nr 24)
+Wybral atrakcje: Jacuzzi Bombelek
+
+______________ Symulacja 25 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 25)
+Na 24 jednostki czasu
+Jego poziom umiejetnosci plywackich: 2
+Wiek: 81
+
+Klient (Client nr 3)
+Wybral atrakcje: Bar Pod Palemka
+
+Klient (Client nr 14)
+Wybral atrakcje: Sauna Finska
+
+Klient (Client nr 25)
+Wybral atrakcje: Standardowy tor plywacki 3
+
+______________ Symulacja 26 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 26)
+Na 18 jednostki czasu
+Jego poziom umiejetnosci plywackich: 1
+Wiek: 77
+
+Klient (Client nr 5)
+Wybral atrakcje: Dmuchaniec Latajacy Holender
+
+Klient (Client nr 15)
+Wybral atrakcje: Sauna Goraczka Sobotniej Nocy
+
+Wychodzi klient (Client nr 17)
+---------------- Paragon ----------------
+Sauna Duszek --- cena: 10
+Instructor 0 --- cena: 30
+                          Cena laczna: 40
+-----------------------------------------
+
+
+Klient (Client nr 20)
+Wybral instruktora: Instructor 6
+
+Klient (Client nr 26)
+Wybral atrakcje: Sauna Duszek
+
+______________ Symulacja 27 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 27)
+Na 22 jednostki czasu
+Jego poziom umiejetnosci plywackich: 2
+Wiek: 60
+
+Wychodzi klient (Client nr 5)
+---------------- Paragon ----------------
+Splyw Pontonowy Topielec --- cena: 7
+Brodzik Ratunku jestem Rybka --- cena: 12
+Dmuchaniec Latajacy Holender --- cena: 15
+                          Cena laczna: 34
+-----------------------------------------
+
+
+Klient (Client nr 23)
+Wybral instruktora: Instructor 0
+
+Klient (Client nr 27)
+Wybral atrakcje: Sauna Tropiki
+
+______________ Symulacja 28 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 28)
+Na 27 jednostki czasu
+Jego poziom umiejetnosci plywackich: 1
+Wiek: 97
+
+Wychodzi klient (Client nr 11)
+---------------- Paragon ----------------
+Bar Pod Palemka --- cena: 20
+Instructor 6 --- cena: 30
+Sauna Siodme Niebo --- cena: 10
+                          Cena laczna: 60
+-----------------------------------------
+
+
+Wychodzi klient (Client nr 16)
+---------------- Paragon ----------------
+Ekspercki tor plywacki 3 --- cena: 19
+Instructor 0 --- cena: 30
+                          Cena laczna: 49
+-----------------------------------------
+
+
+Klient (Client nr 28)
+Wybral atrakcje: Sauna Tropiki
+
+______________ Symulacja 29 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 29)
+Na 8 jednostki czasu
+Jego poziom umiejetnosci plywackich: 1
+Wiek: 21
+
+Klient (Client nr 18)
+Wybral atrakcje: Sauna Tropiki
+
+Klient (Client nr 29)
+Wybral atrakcje: Sauna Finska
+
+______________ Symulacja 30 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 30)
+Na 30 jednostki czasu
+Jego poziom umiejetnosci plywackich: 2
+Wiek: 87
+
+Wychodzi klient (Client nr 9)
+---------------- Paragon ----------------
+Sauna Siodme Niebo --- cena: 10
+Restauracja Krusty Krab --- cena: 20
+Instructor 6 --- cena: 30
+                          Cena laczna: 60
+-----------------------------------------
+
+
+Klient (Client nr 18)
+Wybral instruktora: Instructor 3
+
+Klient (Client nr 19)
+Wybral atrakcje: Standardowy tor plywacki 3
+
+Wychodzi klient (Client nr 20)
+---------------- Paragon ----------------
+Poczatkujacy tor plywacki 4 --- cena: 9
+Instructor 6 --- cena: 30
+                          Cena laczna: 39
+-----------------------------------------
+
+
+Klient (Client nr 30)
+Wybral atrakcje: Standardowy tor plywacki 5
+
+______________ Symulacja 31 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 31)
+Na 45 jednostki czasu
+Jego poziom umiejetnosci plywackich: 3
+Wiek: 27
+
+Klient (Client nr 4)
+Wybral atrakcje: Sauna Siodme Niebo
+
+Wychodzi klient (Client nr 18)
+---------------- Paragon ----------------
+Poczatkujacy tor plywacki 4 --- cena: 9
+Sauna Tropiki --- cena: 10
+Instructor 3 --- cena: 30
+                          Cena laczna: 49
+-----------------------------------------
+
+
+Klient (Client nr 31)
+Wybral atrakcje: Ekspercki tor plywacki 1
+
+Klient (Client nr 31)
+Wybral instruktora: Instructor 3
+
+______________ Symulacja 32 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 32)
+Na 7 jednostki czasu
+Jego poziom umiejetnosci plywackich: 2
+Wiek: 20
+
+Klient (Client nr 10)
+Wybral atrakcje: Sauna Tropiki
+
+Klient (Client nr 32)
+Wybral atrakcje: Sauna Tropiki
+
+______________ Symulacja 33 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 33)
+Na 49 jednostki czasu
+Jego poziom umiejetnosci plywackich: 2
+Wiek: 43
+
+Klient (Client nr 22)
+Wybral atrakcje: Standardowy tor plywacki 3
+
+Klient (Client nr 24)
+Wybral atrakcje: Sauna Siodme Niebo
+
+Klient (Client nr 33)
+Wybral atrakcje: Standardowy tor plywacki 4
+
+Klient (Client nr 33)
+Wybral instruktora: Instructor 3
+
+______________ Symulacja 34 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 34)
+Na 48 jednostki czasu
+Jego poziom umiejetnosci plywackich: 3
+Wiek: 58
+
+Wychodzi klient (Client nr 15)
+---------------- Paragon ----------------
+Bar Pod Palemka --- cena: 20
+Instructor 3 --- cena: 30
+Sauna Goraczka Sobotniej Nocy --- cena: 10
+                          Cena laczna: 60
+-----------------------------------------
+
+
+Klient (Client nr 23)
+Wybral atrakcje: Sauna Duszek
+
+Klient (Client nr 34)
+Wybral atrakcje: Restauracja Krusty Krab
+
+______________ Symulacja 35 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 35)
+Na 27 jednostki czasu
+Jego poziom umiejetnosci plywackich: 1
+Wiek: 36
+
+Klient (Client nr 2)
+Wybral atrakcje: Sauna Siodme Niebo
+
+Wychodzi klient (Client nr 29)
+---------------- Paragon ----------------
+Sauna Finska --- cena: 10
+                          Cena laczna: 10
+-----------------------------------------
+
+
+Klient (Client nr 32)
+Wybral instruktora: Instructor 3
+
+Klient (Client nr 35)
+Wybral atrakcje: Sauna Goraczka Sobotniej Nocy
+
+______________ Symulacja 36 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 36)
+Na 41 jednostki czasu
+Jego poziom umiejetnosci plywackich: 2
+Wiek: 85
+
+Klient (Client nr 3)
+Wybral atrakcje: Sauna Finska
+
+Klient (Client nr 14)
+Wybral atrakcje: Sauna Duszek
+
+Klient (Client nr 36)
+Wybral atrakcje: Sauna Finska
+
+______________ Symulacja 37 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 37)
+Na 17 jednostki czasu
+Jego poziom umiejetnosci plywackich: 3
+Wiek: 53
+
+Wychodzi klient (Client nr 3)
+---------------- Paragon ----------------
+Sauna Duszek --- cena: 10
+Bar Pod Palemka --- cena: 20
+Instructor 9 --- cena: 30
+Bar Pod Palemka --- cena: 20
+Sauna Finska --- cena: 10
+                          Cena laczna: 90
+-----------------------------------------
+
+
+Klient (Client nr 8)
+Wybral atrakcje: Dmuchaniec Wielki Banan
+
+Klient (Client nr 21)
+Wybral atrakcje: Sauna Siodme Niebo
+
+Klient (Client nr 26)
+Wybral atrakcje: Karczma U Czarnobrodego
+
+Wychodzi klient (Client nr 32)
+---------------- Paragon ----------------
+Sauna Tropiki --- cena: 10
+Instructor 3 --- cena: 30
+                          Cena laczna: 40
+-----------------------------------------
+
+
+Klient (Client nr 37)
+Wybral atrakcje: Ekspercki tor plywacki 1
+
+______________ Symulacja 38 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 38)
+Na 42 jednostki czasu
+Jego poziom umiejetnosci plywackich: 3
+Wiek: 67
+
+Wychodzi klient (Client nr 4)
+---------------- Paragon ----------------
+Standardowy tor plywacki 4 --- cena: 14
+Instructor 0 --- cena: 30
+Bar Pod Palemka --- cena: 20
+Sauna Siodme Niebo --- cena: 10
+                          Cena laczna: 74
+-----------------------------------------
+
+
+Klient (Client nr 24)
+Wybral instruktora: Instructor 3
+
+Klient (Client nr 27)
+Wybral atrakcje: Sauna Siodme Niebo
+
+Klient (Client nr 27)
+Wybral instruktora: Instructor 3
+
+Klient (Client nr 28)
+Wybral instruktora: Instructor 3
+
+Klient (Client nr 38)
+Wybral atrakcje: Karczma U Czarnobrodego
+
+______________ Symulacja 39 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 39)
+Na 21 jednostki czasu
+Jego poziom umiejetnosci plywackich: 2
+Wiek: 38
+
+Klient (Client nr 28)
+Wybral atrakcje: Jacuzzi Bombelek
+
+Klient (Client nr 39)
+Wybral atrakcje: Sauna Siodme Niebo
+
+______________ Symulacja 40 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 40)
+Na 50 jednostki czasu
+Jego poziom umiejetnosci plywackich: 2
+Wiek: 12
+
+Klient (Client nr 40)
+Wybral atrakcje: Standardowy tor plywacki 4
+
+______________ Symulacja 41 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 41)
+Na 28 jednostki czasu
+Jego poziom umiejetnosci plywackich: 1
+Wiek: 49
+
+Klient (Client nr 2)
+Wybral instruktora: Instructor 9
+
+Klient (Client nr 25)
+Wybral atrakcje: Sauna Siodme Niebo
+
+Klient (Client nr 38)
+Wybral instruktora: Instructor 0
+
+Klient (Client nr 41)
+Wybral atrakcje: Restauracja Krusty Krab
+
+______________ Symulacja 42 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 42)
+Na 13 jednostki czasu
+Jego poziom umiejetnosci plywackich: 3
+Wiek: 61
+
+Wychodzi klient (Client nr 26)
+---------------- Paragon ----------------
+Sauna Duszek --- cena: 10
+Karczma U Czarnobrodego --- cena: 20
+                          Cena laczna: 30
+-----------------------------------------
+
+
+Klient (Client nr 42)
+Wybral atrakcje: Ekspercki tor plywacki 3
+
+______________ Symulacja 43 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 43)
+Na 29 jednostki czasu
+Jego poziom umiejetnosci plywackich: 3
+Wiek: 86
+
+Klient (Client nr 10)
+Wybral atrakcje: Karczma U Czarnobrodego
+
+Wychodzi klient (Client nr 13)
+---------------- Paragon ----------------
+Sauna Siodme Niebo --- cena: 10
+Instructor 9 --- cena: 30
+Ekspercki tor plywacki 3 --- cena: 19
+                          Cena laczna: 59
+-----------------------------------------
+
+
+Klient (Client nr 30)
+Wybral instruktora: Instructor 9
+
+Klient (Client nr 43)
+Wybral atrakcje: Ekspercki tor plywacki 1
+
+______________ Symulacja 44 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 44)
+Na 30 jednostki czasu
+Jego poziom umiejetnosci plywackich: 1
+Wiek: 76
+
+Klient (Client nr 24)
+Wybral atrakcje: Ekspercki tor plywacki 3
+
+Klient (Client nr 44)
+Wybral atrakcje: Poczatkujacy tor plywacki 5
+
+______________ Symulacja 45 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 45)
+Na 33 jednostki czasu
+Jego poziom umiejetnosci plywackich: 2
+Wiek: 21
+
+Klient (Client nr 23)
+Wybral atrakcje: Karczma U Czarnobrodego
+
+Klient (Client nr 34)
+Wybral atrakcje: Sauna Tropiki
+
+Klient (Client nr 45)
+Wybral atrakcje: Sauna Tropiki
+
+______________ Symulacja 46 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 46)
+Na 44 jednostki czasu
+Jego poziom umiejetnosci plywackich: 1
+Wiek: 29
+
+Klient (Client nr 2)
+Wybral atrakcje: Sauna Finska
+
+Klient (Client nr 19)
+Wybral atrakcje: Sauna Finska
+
+Klient (Client nr 30)
+Wybral atrakcje: Sauna Finska
+
+Klient (Client nr 35)
+Wybral atrakcje: Bar Pod Palemka
+
+Klient (Client nr 46)
+Wybral atrakcje: Bar Pod Palemka
+
+______________ Symulacja 47 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 47)
+Na 33 jednostki czasu
+Jego poziom umiejetnosci plywackich: 2
+Wiek: 85
+
+Wychodzi klient (Client nr 10)
+---------------- Paragon ----------------
+Poczatkujacy tor plywacki 5 --- cena: 9
+Instructor 6 --- cena: 30
+Restauracja Krusty Krab --- cena: 20
+Sauna Tropiki --- cena: 10
+Karczma U Czarnobrodego --- cena: 20
+                          Cena laczna: 89
+-----------------------------------------
+
+
+Klient (Client nr 14)
+Wybral atrakcje: Sauna Tropiki
+
+Wychodzi klient (Client nr 25)
+---------------- Paragon ----------------
+Standardowy tor plywacki 3 --- cena: 14
+Sauna Siodme Niebo --- cena: 10
+                          Cena laczna: 24
+-----------------------------------------
+
+
+Wychodzi klient (Client nr 27)
+---------------- Paragon ----------------
+Sauna Tropiki --- cena: 10
+Sauna Siodme Niebo --- cena: 10
+Instructor 3 --- cena: 30
+                          Cena laczna: 50
+-----------------------------------------
+
+
+Klient (Client nr 36)
+Wybral atrakcje: Sauna Duszek
+
+Klient (Client nr 47)
+Wybral atrakcje: Standardowy tor plywacki 2
+
+______________ Symulacja 48 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 48)
+Na 27 jednostki czasu
+Jego poziom umiejetnosci plywackich: 1
+Wiek: 30
+
+Klient (Client nr 21)
+Wybral atrakcje: Standardowy tor plywacki 5
+
+Klient (Client nr 28)
+Wybral atrakcje: Bar Pod Palemka
+
+Klient (Client nr 48)
+Wybral atrakcje: Restauracja Krusty Krab
+
+______________ Symulacja 49 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 49)
+Na 9 jednostki czasu
+Jego poziom umiejetnosci plywackich: 3
+Wiek: 42
+
+Wychodzi klient (Client nr 2)
+---------------- Paragon ----------------
+Karczma U Czarnobrodego --- cena: 20
+Karczma U Czarnobrodego --- cena: 20
+Sauna Duszek --- cena: 10
+Sauna Siodme Niebo --- cena: 10
+Instructor 9 --- cena: 30
+Sauna Finska --- cena: 10
+                          Cena laczna: 100
+-----------------------------------------
+
+
+Wychodzi klient (Client nr 19)
+---------------- Paragon ----------------
+Sauna Tropiki --- cena: 10
+Instructor 3 --- cena: 30
+Standardowy tor plywacki 3 --- cena: 14
+Sauna Finska --- cena: 10
+                          Cena laczna: 64
+-----------------------------------------
+
+
+Klient (Client nr 22)
+Wybral atrakcje: Sauna Duszek
+
+Klient (Client nr 33)
+Wybral atrakcje: Standardowy tor plywacki 3
+
+Klient (Client nr 38)
+Wybral atrakcje: Bar Pod Palemka
+
+Klient (Client nr 49)
+Wybral atrakcje: Sauna Finska
+
+______________ Symulacja 50 jednostka czasu ______________
+
+
+Przychodzi klient (Client nr 50)
+Na 21 jednostki czasu
+Jego poziom umiejetnosci plywackich: 3
+Wiek: 51
+
+Klient (Client nr 39)
+Wybral atrakcje: Jacuzzi Bombelek
+
+Klient (Client nr 50)
+Wybral atrakcje: Bar Pod Palemka
+################ KONIEC SYMULACJI ################
